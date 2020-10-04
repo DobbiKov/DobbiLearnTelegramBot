@@ -8,16 +8,16 @@ namespace DobbiLearnTelegramBot.Command
 {
     public abstract class Command
     {
-        public abstract string[] Names { get; set; }
+        public abstract string[] Names { get; set; } //массив строк, по котрым можно вызвать команду
         public abstract void Execute(Message message, TelegramBotClient client);
 
-        public bool Contains(string command)
+        public bool Contains(string command) //функция, котрая проверяет, соотвествует ли сообщение команде нашей
         {
-            foreach (var comm in Names)
+            foreach (var comm in Names) //проходится по массиву этой команды
             {
-                if (command.Contains(comm)) return true;
+                if (command.Contains(comm)) return true; //если соответсвует
             }
-            return false;
-        }
+            return false; //если не соотвествует
+        } 
     }
 }
