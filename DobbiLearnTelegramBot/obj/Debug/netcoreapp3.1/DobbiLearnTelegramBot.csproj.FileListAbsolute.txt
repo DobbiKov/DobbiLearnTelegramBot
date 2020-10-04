@@ -1,0 +1,16 @@
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\bin\Debug\netcoreapp3.1\DobbiLearnTelegramBot.exe
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\obj\Debug\netcoreapp3.1\DobbiLearnTelegramBot.csprojAssemblyReference.cache
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\obj\Debug\netcoreapp3.1\DobbiLearnTelegramBot.AssemblyInfoInputs.cache
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\obj\Debug\netcoreapp3.1\DobbiLearnTelegramBot.AssemblyInfo.cs
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\bin\Debug\netcoreapp3.1\DobbiLearnTelegramBot.deps.json
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\bin\Debug\netcoreapp3.1\DobbiLearnTelegramBot.runtimeconfig.json
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\bin\Debug\netcoreapp3.1\DobbiLearnTelegramBot.runtimeconfig.dev.json
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\bin\Debug\netcoreapp3.1\DobbiLearnTelegramBot.dll
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\bin\Debug\netcoreapp3.1\DobbiLearnTelegramBot.pdb
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\obj\Debug\netcoreapp3.1\DobbiLearnTelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\obj\Debug\netcoreapp3.1\DobbiLearnTelegramBot.csproj.CopyComplete
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\obj\Debug\netcoreapp3.1\DobbiLearnTelegramBot.dll
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\obj\Debug\netcoreapp3.1\DobbiLearnTelegramBot.pdb
+C:\Users\DobbiKov\OneDrive\Рабочий стол\DobbiLearnTelegramBot\DobbiLearnTelegramBot\obj\Debug\netcoreapp3.1\DobbiLearnTelegramBot.genruntimeconfig.cache
